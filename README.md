@@ -29,7 +29,7 @@
 - 🤖 Building **[JarvisX](https://github.com/PrashantGuptacodecraft/JarvisX)** — an autonomous, AI-driven developer super-intelligence system, in Python
 - 🏭 Shipped **[IOCL Lorry Gate Management](https://github.com/PrashantGuptacodecraft/IOCL_Lorry_Gate_Management)** — a production-grade terminal digitization system for Indian Oil, built on Next.js + Express + PostgreSQL
 - 📰 Also building **[SignalFoundry](https://github.com/PrashantGuptacodecraft/autonomous-ai-creator-advanced)** — an autonomous AI agent that researches, verifies, and publishes on its own
-- 🌱 Currently exploring: <!-- swap this in, specifics beat buzzwords -->
+- 🌱 Currently exploring: **Advanced Autonomous AI Agents and Multi-Agent Systems**
 - 💬 Ask me about: Python systems, TypeScript/Next.js full-stack apps, or autonomous AI agents
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/prashant-gupta-923885328)
 
