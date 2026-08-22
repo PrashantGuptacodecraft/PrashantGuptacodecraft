@@ -62,8 +62,7 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PrashantGuptacodecraft&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PrashantGuptacodecraft&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PrashantGuptacodecraft&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />&nbsp;<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PrashantGuptacodecraft&layout=compact&theme=tokyonight&hide_border=true" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrashantGuptacodecraft&theme=tokyonight&hide_border=true" />
 
