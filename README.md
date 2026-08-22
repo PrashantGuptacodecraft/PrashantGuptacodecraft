@@ -30,7 +30,6 @@
 - 🏭 Shipped **[IOCL Lorry Gate Management](https://github.com/PrashantGuptacodecraft/IOCL_Lorry_Gate_Management)** — a production-grade terminal digitization system for Indian Oil, built on Next.js + Express + PostgreSQL
 - 📰 Also building **[SignalFoundry](https://github.com/PrashantGuptacodecraft/autonomous-ai-creator-advanced)** — an autonomous AI agent that researches, verifies, and publishes on its own
 - 🌱 Currently exploring: **Advanced Autonomous AI Agents and Multi-Agent Systems**
-- 💬 Ask me about: Python systems, TypeScript/Next.js full-stack apps, or autonomous AI agents
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/prashant-gupta-923885328)
 
 </td>
@@ -72,32 +71,10 @@
 
 <br/>
 
-## 🐍 My Contributions, Reimagined (the "dot" graphic)
-
-Your contribution calendar is literally a grid of green **dots**. Instead of leaving it static, a daily GitHub Action turns that same dot grid into a snake animation that eats through your real commits — and a second one renders it as a 3D skyline. Both are auto-generated **images made entirely out of your contribution dots**.
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrashantGuptacodecraft/PrashantGuptacodecraft/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PrashantGuptacodecraft/PrashantGuptacodecraft/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/PrashantGuptacodecraft/PrashantGuptacodecraft/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<br/><br/>
-
-<img alt="3D contribution skyline" src="https://raw.githubusercontent.com/PrashantGuptacodecraft/PrashantGuptacodecraft/main/profile-3d-contrib/profile-night-rainbow.svg" />
-
-</div>
-
-> ⚠️ These two images stay blank until you add the workflow files below to your `PrashantGuptacodecraft/PrashantGuptacodecraft` repo — see setup steps.
-
-<br/>
-
 ## 🏆 Trophy Case
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=PrashantGuptacodecraft&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-trophies.vercel.app/?username=PrashantGuptacodecraft&theme=tokyonight&no-frame=true&row=1&column=6" />
 </div>
 
 <br/>
@@ -167,6 +144,4 @@ A full-stack automation tool that logs into LinkedIn, searches recent job posts,
 
 </div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:6D5BFF&height=120&section=footer" />
-</div>
+
