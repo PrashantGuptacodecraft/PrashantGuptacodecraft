@@ -1,0 +1,28 @@
+name: generate 3d contribution skyline
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # runs once a day at midnight UTC
+  workflow_dispatch: {} # lets you trigger it manually from the Actions tab
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          username: PrashantGuptacodecraft
+
+      - name: commit and push the generated svgs
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -f ./profile-3d-contrib/*.svg
+          git commit -m "generate 3d contribution graph" || exit 0
+          git push
